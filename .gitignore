@@ -1,0 +1,5 @@
+*.pyc
+.env
+/src/plugin/__pycache__
+*.tpp
+src/plugin/__pycache__/__init__.cpython-310.pyc
